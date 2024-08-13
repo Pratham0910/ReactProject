@@ -1,0 +1,11 @@
+.productCard {
+	border-radius: 1rem;
+	box-shadow: none;
+	transition: 0.5s;
+}
+
+.productCard:hover {
+	transform: scale(1.15);
+	box-shadow: 0 0 0.5rem 0.5rem #ffd2df;
+
+}

@@ -1,0 +1,420 @@
+{
+	"products": [
+		{
+			"id": "1",
+			"product_name": "Kids Cough",
+			"product_company": "Natures Investment Holdings Pty Ltd dba Maxrelief USA",
+			"generic_name": [
+				"Drosera 30C",
+				"Spongia 30C",
+				"Kali Carbonicum 30C",
+				"Phospherous 30C",
+				"Ipeacacuhuana 30C",
+				"Pulsatilla 30C",
+				"Belladonna 30C"
+			],
+			"icd10_code": "J670",
+			"category": "Medicine",
+			"price": 250
+		},
+		{
+			"id": "2",
+			"product_name": "Quetiapine fumarate",
+			"product_company": "Cardinal Health",
+			"generic_name": [
+				"Quetiapine fumarate"
+			],
+			"icd10_code": "S37829",
+			"category": "Medicine",
+			"price": 450
+		},
+		{
+			"id": "3",
+			"product_name": "Benazepril Hydrochloride",
+			"product_company": "Unit Dose Services",
+			"generic_name": [
+				"Benazepril Hydrochloride"
+			],
+			"icd10_code": "S42026",
+			"category": "Medicine",
+			"price": 350
+		},
+		{
+			"id": "4",
+			"product_name": "Benztropine Mesylate",
+			"product_company": "Bayshore Pharmaceuticals, LLC",
+			"generic_name": [
+				"benztropine mesylate"
+			],
+			"icd10_code": "W08XXXA",
+			"category": "Medicine",
+			"price": 300
+		},
+		{
+			"id": "5",
+			"product_name": "Mucor plumbeus",
+			"product_company": "Nelco Laboratories, Inc.",
+			"generic_name": [
+				"Mucor plumbeus"
+			],
+			"icd10_code": "S32611D",
+			"category": "Medicine",
+			"price": 280
+		},
+		{
+			"id": "6",
+			"product_name": "Erythromycin Ethylsuccinate and Sulfisoxazole Acetyle",
+			"product_company": "Rebel Distributors Corp",
+			"generic_name": [
+				"Erythromycin Ethylsuccinate",
+				" Sulfisoxazole Acetyle"
+			],
+			"icd10_code": "Y92120",
+			"category": "Medicine",
+			"price": 400
+		},
+		{
+			"id": "7",
+			"product_name": "Acetaminophen",
+			"product_company": "Contract Pharmacy Services-PA",
+			"generic_name": [
+				"Acetaminophen"
+			],
+			"icd10_code": "T85321S",
+			"category": "Medicine",
+			"price": 150
+		},
+		{
+			"id": "8",
+			"product_name": "Prednisone",
+			"product_company": "Watson Laboratories, Inc.",
+			"generic_name": [
+				"Prednisone"
+			],
+			"icd10_code": "T43623",
+			"category": "Medicine",
+			"price": 370
+		},
+		{
+			"id": "9",
+			"product_name": "Alcortin",
+			"product_company": "Primus Pharmaceuticals",
+			"generic_name": [
+				"1% iodoquinol - 2% hydrocortisone"
+			],
+			"icd10_code": "S63421D",
+			"category": "Medicine",
+			"price": 320
+		},
+		{
+			"id": "10",
+			"product_name": "Allergy Buster",
+			"product_company": "SiCap Industries LLC",
+			"generic_name": [
+				"Capsicum annuum",
+				"Urtica dioica"
+			],
+			"icd10_code": "C8218",
+			"category": "Medicine",
+			"price": 230
+		},
+		{
+			"id": "11",
+			"product_name": "Neomycin Sulfate",
+			"product_company": "Teva Pharmaceuticals USA Inc",
+			"generic_name": [
+				"Neomycin Sulfate"
+			],
+			"icd10_code": "M9302",
+			"category": "Medicine",
+			"price": 300
+		},
+		{
+			"id": "12",
+			"product_name": "Antipyrine and Benzocaine",
+			"product_company": "SDA Laboratories",
+			"generic_name": [
+				"Antipyrine and Benzocaine"
+			],
+			"icd10_code": "M87845",
+			"category": "Medicine",
+			"price": 220
+		},
+		{
+			"id": "13",
+			"product_name": "KAHI Wrinkle Bounce Multi Balm",
+			"product_company": "KAHI",
+			"generic_name": [
+				"Balm"
+			],
+			"icd10_code": "",
+			"category": "Cosmetic",
+			"price": 1500
+		},
+		{
+			"id": "14",
+			"product_name": "Lumiere Firming & Restoring Eye Cream",
+			"product_company": "SkinCeuticals",
+			"generic_name": [
+				"Eye Cream"
+			],
+			"icd10_code": "",
+			"category": "Cosmetic",
+			"price": 2000
+		},
+		{
+			"id": "15",
+			"product_name": "Hydrating Serum",
+			"product_company": "Neutrogena",
+			"generic_name": [
+				"Serum"
+			],
+			"icd10_code": "",
+			"category": "Cosmetic",
+			"price": 1800
+		},
+		{
+			"id": "16",
+			"product_name": "Moisturizing Lotion",
+			"product_company": "CeraVe",
+			"generic_name": [
+				"Lotion"
+			],
+			"icd10_code": "",
+			"category": "Cosmetic",
+			"price": 1600
+		},
+		{
+			"id": "17",
+			"product_name": "Homeopathic Bronchitis Formula",
+			"product_company": "Indiana Botanic Gardens",
+			"generic_name": [
+				"Asclepias tuberose",
+				"Drosera rotundifolia",
+				"Hepar sulphuris calcareum",
+				"Silicea",
+				"Stannum metallicum"
+			],
+			"icd10_code": "T4592XD",
+			"category": "Medicine",
+			"price": 290
+		},
+		{
+			"id": "18",
+			"product_name": "Ranitidine Hydrochloride",
+			"product_company": "Sandoz Inc",
+			"generic_name": [
+				"Ranitidine Hydrochloride"
+			],
+			"icd10_code": "S72333M",
+			"category": "Medicine",
+			"price": 330
+		},
+		{
+			"id": "19",
+			"product_name": "Trazodone Hydrochloride",
+			"product_company": "AvKARE, Inc.",
+			"generic_name": [
+				"Trazodone Hydrochloride"
+			],
+			"icd10_code": "S3093XA",
+			"category": "Medicine",
+			"price": 370
+		},
+		{
+			"id": "20",
+			"product_name": "Hand Kleen Foaming Antibacterial Hand",
+			"product_company": "Auto-Chlor System, LLC",
+			"generic_name": [
+				"Triclosan"
+			],
+			"icd10_code": "S45992",
+			"category": "Medicine",
+			"price": 210
+		},
+		{
+			"id": "21",
+			"product_name": "CLAM",
+			"product_company": "Allergy Laboratories, Inc.",
+			"generic_name": [
+				"Quahog"
+			],
+			"icd10_code": "T400X3S",
+			"category": "Medicine",
+			"price": 250
+		},
+		{
+			"id": "22",
+			"product_name": "Lip Balm",
+			"product_company": "ChapStick",
+			"generic_name": [
+				"Balm"
+			],
+			"icd10_code": "",
+			"category": "Cosmetic",
+			"price": 300
+		},
+		{
+			"id": "23",
+			"product_name": "Soft (Silver) Maple",
+			"product_company": "Antigen Laboratories, Inc.",
+			"generic_name": "Soft (Silver) Maple",
+			"icd10_code": "S324",
+			"category": "Medicine",
+			"price": 260
+		},
+		{
+			"id": "24",
+			"product_name": "Losortan Potassium",
+			"product_company": "Rebel Distributors Corp",
+			"generic_name": [
+				"Losartan Potassium"
+			],
+			"icd10_code": "T404X3",
+			"category": "Medicine",
+			"price": 340
+		},
+		{
+			"id": "25",
+			"product_name": "Acetaminophen",
+			"product_company": "New World Imports, Inc",
+			"generic_name": [
+				"Acetaminophen"
+			],
+			"icd10_code": "T50B93A",
+			"category": "Medicine",
+			"price": 160
+		},
+		{
+			"id": "26",
+			"product_name": "MILLIPRED",
+			"product_company": "Laser Pharmaceuticals, LLC",
+			"generic_name": [
+				"PREDNISOLONE"
+			],
+			"icd10_code": "S53145S",
+			"category": "Medicine",
+			"price": 380
+		},
+		{
+			"id": "27",
+			"product_name": "Megestrol Acetate",
+			"product_company": "Barr Laboratories Inc.",
+			"generic_name": [
+				"Megestrol Acetate"
+			],
+			"icd10_code": "S52379D",
+			"category": "Medicine",
+			"price": 390
+		},
+		{
+			"id": "28",
+			"product_name": "Calamine",
+			"product_company": "Geiss, Destin and Dunn, Inc",
+			"generic_name": [
+				"Ferric Oxide Red"
+			],
+			"icd10_code": "S63214",
+			"category": "Medicine",
+			"price": 270
+		},
+		{
+			"id": "29",
+			"product_name": "Sodium Polystyrene Sulfonate",
+			"product_company": "Cardinal Health",
+			"generic_name": [
+				"Sodium Polystyrene Sulfonate"
+			],
+			"icd10_code": "V5920XS",
+			"category": "Medicine",
+			"price": 340
+		},
+		{
+			"id": "30",
+			"product_name": "Cetirizine Hydrochloride",
+			"product_company": "Pack Pharmaceuticals LLC",
+			"generic_name": [
+				"Cetirizine Hydrochloride"
+			],
+			"icd10_code": "S25112",
+			"category": "Medicine",
+			"price": 310
+		},
+		{
+			"id": "31",
+			"product_name": "Vichy Laboratoire",
+			"product_company": "L'Oreal USA Products Inc",
+			"generic_name": "Avobenzone Homosalate Octisalate Octocrylene Oxybenzone",
+			"icd10_code": "S46921S",
+			"category": "Medicine",
+			"price": 420
+		},
+		{
+			"id": "32",
+			"product_name": "Gabapentin",
+			"product_company": "Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC",
+			"generic_name": [
+				"Gabapentin"
+			],
+			"icd10_code": "S838X1A",
+			"category": "Medicine",
+			"price": 350
+		},
+		{
+			"id": "33",
+			"product_name": "Licefreee Everyday",
+			"product_company": "Tec Laboratories, Inc.",
+			"generic_name": [
+				"Natrum Muriaticum"
+			],
+			"icd10_code": "M84757P",
+			"category": "Medicine",
+			"price": 280
+		},
+		{
+			"id": "34",
+			"product_name": "Clorox CareConcepts Perineal Cleansing Lotion",
+			"product_company": "The Clorox Company",
+			"generic_name": [
+				"Aloe Vera"
+			],
+			"icd10_code": "S69312",
+			"category": "Medicine",
+			"price": 260
+		},
+		{
+			"id": "35",
+			"product_name": "Sodium Chloride",
+			"product_company": "Innovative Compounding Solutions, LLC",
+			"generic_name": [
+				"Sodium Chloride"
+			],
+			"icd10_code": "R0791",
+			"category": "Medicine",
+			"price": 200
+		},
+		{
+			"id": "36",
+			"product_name": "Hydrocodone Bitartrate and Acetaminophen",
+			"product_company": "West-ward Pharmaceutical Corp.",
+			"generic_name": [
+				"Hydrocodone Bitartrate",
+				"Acetaminophen"
+			],
+			"icd10_code": "S83351A",
+			"category": "Medicine",
+			"price": 500
+		},
+		{
+			"id": "37",
+			"product_name": "Sodium Bicarbonate",
+			"product_company": "Great Southern Labs",
+			"generic_name": [
+				"Sodium Bicarbonate"
+			],
+			"icd10_code": "S0831",
+			"category": "Medicine",
+			"price": 220
+		}
+	]
+}

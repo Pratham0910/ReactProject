@@ -1,0 +1,48 @@
+.footer {
+	position: relative;
+	width: 100%;
+	background: #343a40;
+	min-height: 100px;
+	padding: 20px 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.menu {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem 0rem 1rem 0rem;
+	margin-left: -2rem;
+	flex-wrap: wrap;
+}
+
+.menu__item {
+	list-style: none;
+}
+
+.home, .contact {
+	font-size: 1.5rem;
+	color: #fff;
+	margin: 0 10px;
+	display: inline-block;
+	transition: 0.25s;
+	text-decoration: none;
+	font-weight: 300;
+	opacity: 0.75;
+}
+
+.home:hover {
+	color: #fff;
+	opacity: 1;
+}
+
+.footer p {
+	color: #fff;
+	margin: 1rem 0 1rem 0;
+	font-size: 1.5rem;
+	font-weight: 300;
+}

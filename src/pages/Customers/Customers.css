@@ -1,0 +1,31 @@
+.products {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.product {
+    margin: 1rem 0rem;
+}
+
+.filters {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.allProducts, .Medicine, .Cosmetic {
+    margin-right: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.goToCart {
+    right: 2rem;
+}

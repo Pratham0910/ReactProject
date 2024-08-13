@@ -1,0 +1,321 @@
+{
+  "orders": [
+    {
+      "id": "f190"
+    },
+    {
+      "id": null,
+      "userId": "2",
+      "cartItems": [],
+      "date": "2024-08-05T07:27:52.137Z"
+    },
+    {
+      "id": null,
+      "userId": "2",
+      "cartItems": [
+        {
+          "id": "1",
+          "product_name": "Kids Cough",
+          "product_company": "Natures Investment Holdings Pty Ltd dba Maxrelief USA",
+          "generic_name": [
+            "Drosera 30C",
+            "Spongia 30C",
+            "Kali Carbonicum 30C",
+            "Phospherous 30C",
+            "Ipeacacuhuana 30C",
+            "Pulsatilla 30C",
+            "Belladonna 30C"
+          ],
+          "icd10_code": "J670",
+          "category": "Medicine",
+          "price": 250,
+          "quantity": 1
+        }
+      ],
+      "date": "2024-08-05T07:28:02.712Z"
+    },
+    {
+      "id": null,
+      "userId": "2",
+      "cartItems": [
+        {
+          "id": "3",
+          "product_name": "Benazepril Hydrochloride",
+          "product_company": "Unit Dose Services",
+          "generic_name": [
+            "Benazepril Hydrochloride"
+          ],
+          "icd10_code": "S42026",
+          "category": "Medicine",
+          "price": 350,
+          "quantity": 1
+        }
+      ],
+      "date": "2024-08-05T10:45:37.659Z"
+    },
+    {
+      "id": null,
+      "userId": "2",
+      "cartItems": [
+        {
+          "id": "1",
+          "product_name": "Kids Cough",
+          "product_company": "Natures Investment Holdings Pty Ltd dba Maxrelief USA",
+          "generic_name": [
+            "Drosera 30C",
+            "Spongia 30C",
+            "Kali Carbonicum 30C",
+            "Phospherous 30C",
+            "Ipeacacuhuana 30C",
+            "Pulsatilla 30C",
+            "Belladonna 30C"
+          ],
+          "icd10_code": "J670",
+          "category": "Medicine",
+          "price": 250,
+          "quantity": 3
+        }
+      ],
+      "date": "2024-08-06T05:04:27.691Z"
+    },
+    {
+      "id": null,
+      "userId": "2",
+      "cartItems": [
+        {
+          "id": "2",
+          "product_name": "Quetiapine fumarate",
+          "product_company": "Cardinal Health",
+          "generic_name": [
+            "Quetiapine fumarate"
+          ],
+          "icd10_code": "S37829",
+          "category": "Medicine",
+          "price": 450,
+          "quantity": 2
+        },
+        {
+          "id": "3",
+          "product_name": "Benazepril Hydrochloride",
+          "product_company": "Unit Dose Services",
+          "generic_name": [
+            "Benazepril Hydrochloride"
+          ],
+          "icd10_code": "S42026",
+          "category": "Medicine",
+          "price": 350,
+          "quantity": 2
+        }
+      ],
+      "date": "2024-08-06T05:05:02.610Z"
+    },
+    {
+      "id": null,
+      "userId": "2",
+      "cartItems": [
+        {
+          "id": "11",
+          "product_name": "Neomycin Sulfate",
+          "product_company": "Teva Pharmaceuticals USA Inc",
+          "generic_name": [
+            "Neomycin Sulfate"
+          ],
+          "icd10_code": "M9302",
+          "category": "Medicine",
+          "price": 300,
+          "quantity": 6
+        }
+      ],
+      "date": "2024-08-06T05:24:27.537Z"
+    },
+    {
+      "id": null,
+      "user": {
+        "name": "Pratham",
+        "email": "pratham@gmail.com"
+      },
+      "cartItems": [
+        {
+          "id": "17",
+          "product_name": "Homeopathic Bronchitis Formula",
+          "product_company": "Indiana Botanic Gardens",
+          "generic_name": [
+            "Asclepias tuberose",
+            "Drosera rotundifolia",
+            "Hepar sulphuris calcareum",
+            "Silicea",
+            "Stannum metallicum"
+          ],
+          "icd10_code": "T4592XD",
+          "category": "Medicine",
+          "price": 290,
+          "quantity": 3
+        }
+      ],
+      "date": "2024-08-06T05:43:21.540Z"
+    },
+    {
+      "id": null,
+      "user": {
+        "name": "Pratham",
+        "phone": "9876543210",
+        "email": "pratham@gmail.com"
+      },
+      "cartItems": [
+        {
+          "id": "16",
+          "product_name": "Moisturizing Lotion",
+          "product_company": "CeraVe",
+          "generic_name": [
+            "Lotion"
+          ],
+          "icd10_code": "",
+          "category": "Cosmetic",
+          "price": 1600,
+          "quantity": 3
+        }
+      ],
+      "date": "2024-08-06T05:45:44.983Z"
+    },
+    {
+      "id": null,
+      "user": {
+        "name": "Pratham",
+        "phone": "9876543210",
+        "email": "pratham@gmail.com"
+      },
+      "cartItems": [
+        {
+          "id": "3",
+          "product_name": "Benazepril Hydrochloride",
+          "product_company": "Unit Dose Services",
+          "generic_name": [
+            "Benazepril Hydrochloride"
+          ],
+          "icd10_code": "S42026",
+          "category": "Medicine",
+          "price": 350,
+          "quantity": 3
+        },
+        {
+          "id": "2",
+          "product_name": "Quetiapine fumarate",
+          "product_company": "Cardinal Health",
+          "generic_name": [
+            "Quetiapine fumarate"
+          ],
+          "icd10_code": "S37829",
+          "category": "Medicine",
+          "price": 450,
+          "quantity": 2
+        }
+      ],
+      "date": "2024-08-06T05:48:21.549Z"
+    },
+    {
+      "id": null,
+      "user": {
+        "name": "Pratham",
+        "phone": "9876543210",
+        "email": "pratham@gmail.com"
+      },
+      "cartItems": [
+        {
+          "id": "1",
+          "product_name": "Kids Cough",
+          "product_company": "Natures Investment Holdings Pty Ltd dba Maxrelief USA",
+          "generic_name": [
+            "Drosera 30C",
+            "Spongia 30C",
+            "Kali Carbonicum 30C",
+            "Phospherous 30C",
+            "Ipeacacuhuana 30C",
+            "Pulsatilla 30C",
+            "Belladonna 30C"
+          ],
+          "icd10_code": "J670",
+          "category": "Medicine",
+          "price": 250,
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "product_name": "Quetiapine fumarate",
+          "product_company": "Cardinal Health",
+          "generic_name": [
+            "Quetiapine fumarate"
+          ],
+          "icd10_code": "S37829",
+          "category": "Medicine",
+          "price": 450,
+          "quantity": 1
+        }
+      ],
+      "date": "2024-08-06T06:07:37.912Z"
+    },
+    {
+      "id": null,
+      "user": {
+        "name": "Pratham",
+        "phone": "9876543210",
+        "email": "pratham@gmail.com"
+      },
+      "cartItems": [
+        {
+          "id": "1",
+          "product_name": "Kids Cough",
+          "product_company": "Natures Investment Holdings Pty Ltd dba Maxrelief USA",
+          "generic_name": [
+            "Drosera 30C",
+            "Spongia 30C",
+            "Kali Carbonicum 30C",
+            "Phospherous 30C",
+            "Ipeacacuhuana 30C",
+            "Pulsatilla 30C",
+            "Belladonna 30C"
+          ],
+          "icd10_code": "J670",
+          "category": "Medicine",
+          "price": 250,
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "product_name": "Quetiapine fumarate",
+          "product_company": "Cardinal Health",
+          "generic_name": [
+            "Quetiapine fumarate"
+          ],
+          "icd10_code": "S37829",
+          "category": "Medicine",
+          "price": 450,
+          "quantity": 4
+        }
+      ],
+      "date": "2024-08-06T06:17:20.554Z"
+    },
+    {
+      "id": null,
+      "user": {
+        "name": "Pratham",
+        "phone": "9876543210",
+        "email": "pratham@gmail.com"
+      },
+      "cartItems": [
+        {
+          "id": "2",
+          "product_name": "Quetiapine fumarate",
+          "product_company": "Cardinal Health",
+          "generic_name": [
+            "Quetiapine fumarate"
+          ],
+          "icd10_code": "S37829",
+          "category": "Medicine",
+          "price": 450,
+          "quantity": 4
+        }
+      ],
+      "date": "2024-08-06T10:08:48.827Z"
+    }
+  ]
+}

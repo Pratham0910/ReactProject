@@ -1,0 +1,55 @@
+.bgImage {
+	position: absolute;
+	height: 100vh;
+	width: 100vw;
+	background-size: cover;
+	background-image: url("./Images/HomePage.jpg");
+	-webkit-filter: blur(0.35rem);
+	filter: blur(0.35rem);
+}
+
+.Hmain {
+	margin-top: 17rem;
+	margin-left: auto;
+	margin-right: auto;
+	width: 33rem;
+	text-align: center;
+	position: relative;
+	background-color: #f2f2f2;
+	border-radius: 2rem;
+	padding: 2rem;
+}
+
+.HPTitle {
+	font-family: "Playfair Display SC", serif;
+	font-weight: 700;
+	font-style: normal;
+	color: #1a5360;
+	font-size: 2.5rem;
+}
+
+.name {
+	font-family: "Lato", sans-serif;
+	color: #25b2ea;
+	font-weight: 700;
+	font-style: normal;
+	margin: 1.5rem 0 0 0rem;
+	font-size: 2.5rem;
+}
+
+.login_button {
+	font-family: "Lato", sans-serif;
+	font-weight: lighter;
+	margin: 2rem 0 0 0rem;
+}
+
+.customer {
+	transition-duration: 0.5s;
+	border: none;
+	background-color: #e7d025;
+}
+
+.customer:hover {
+	transform: scale(1.25);
+	background-color: #25b2ea;
+}

@@ -1,0 +1,93 @@
+.retBG {
+	position: absolute;
+	height: 100vh;
+	width: 100vw;
+	background-size: cover;
+	background-image: url("./Images/LoginImage.avif");
+	opacity: calc(70%);
+	-webkit-filter: blur(0.55rem);
+	filter: blur(0.55rem);
+}
+
+.homeBtn {
+	font-weight: bolder;
+	margin-top: 2rem;
+	margin-left: 2rem;
+	position: relative;
+	opacity: calc(100%);
+	color: aliceblue;
+	font-size: 1.25rem;
+	color: rgb(29, 29, 29);
+}
+
+.loginBox {
+	opacity: calc(85%);
+	width: 30rem;
+	margin: 3rem 0rem 0rem 32rem;
+	position: relative;
+	font-family: "noto+sans", sans-serif;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 2rem;
+	padding: 2rem;
+	background-color: #f4f4f4;
+}
+
+.title {
+	text-align: center;
+	margin: 0rem 0rem 2rem;
+	font-size: 3rem;
+	font-weight: bold;
+	color: #11001e;
+}
+
+label {
+	color: #11001e;
+	margin-left: 0.25rem;
+}
+
+input {
+	display: block;
+}
+
+input:hover {
+	transform: scale(1.05);
+}
+
+.retLogin {
+	display: block;
+	text-align: center;
+	text-align: center;
+	margin: 1rem 0;
+}
+
+.email,
+.password {
+	text-align: left;
+	margin: 1rem 0rem 0rem;
+	font-size: 1.15rem;
+}
+
+.register {
+	text-align: center;
+}
+
+#logBtn {
+	background-color: #09090b;
+	border: none;
+	color: #e4e5ea;
+	font-size: 1.2rem;
+}
+
+button.register {
+	background-color: #e4e5ea;
+}
+
+button {
+	font-size: 1.15rem;
+	transition: transform 0.4s ease;
+}
+
+button:hover {
+	transform: scale(1.25);
+}
